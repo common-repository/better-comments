@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "title": "Better Comments",
+        "body": "allows you to style and customize your comment form and your comments section, in just a few clicks. You don't need to meddle with your child theme's CSS anymore: just select the options you need and you're all set.",
+        "icon": "https://ps.w.org/better-comments/assets/icon-256x256.png",
+        "banner": "https://ps.w.org/better-comments/assets/banner-772x250.jpg",
+        "url": "https://wordpress.org/plugins/better-comments/",
+        "install": ""
+    },
+    {
+        "id": 2,
+        "title": "Sky Login Redirect",
+        "body": "redirects your users on log in and log out to the page you set in the options. You can choose to redirect specific users, specific roles, set global custom redirects to a given location or redirect everyone to the page they were reading prior to logging in or logging out.",
+        "icon": "https://ps.w.org/sky-login-redirect/assets/icon-256x256.png",
+        "banner": "https://ps.w.org/sky-login-redirect/assets/banner-772x250.png",
+        "url": "https://wordpress.org/plugins/sky-login-redirect/"
+    },
+    {
+        "id": 3,
+        "title": "FlashSpeed",
+        "body": "FlashSpeed removes unused assets and allows you to fine-tune what WordPress loads. Cut down the ressources and assets needed, and greatly improve your loading times.",
+        "icon": "https://ps.w.org/flashspeed/assets/icon-256x256.jpg",
+        "banner": "https://ps.w.org/flashspeed/assets/banner-1544x500.png",
+        "url": "https://wordpress.org/plugins/flashspeed/"
+    },
+    {
+        "id": 4,
+        "title": "SpamJam",
+        "body": "SpamJam is an antispam that protects your comment and registration forms from being abused. It can prevent 99% of all automated spam requests, transparently for end-users.",
+        "icon": "https://ps.w.org/spamjam/assets/icon-256x256.png",
+        "banner": "https://ps.w.org/spamjam/assets/banner-1544x500.png",
+        "url": "https://wordpress.org/plugins/spamjam/"
+    }
+]

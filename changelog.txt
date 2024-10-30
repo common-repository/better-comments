@@ -1,0 +1,121 @@
+= 1.6.0 - 2024-03-24 =
+*   Fix - revert commenter's URL for internal links
+*   Enhancement - more robust function for SEO redirects 
+*   Enhancement - PHPCS fixes
+*   Enhancement - minimum PHP requirement is now PHP 8
+
+= 1.5.6 - 2024-03-20 =
+*   Enhancement - additional escaping and sanitizing
+*   Update - FS library
+*   Update - CF library
+
+= 1.5.5 - 2023-09-08 =
+*   Enhancement - rename constants for consistency
+*   Enhancement - FS library is now managed through Composer
+
+= 1.5.4 - 2023-07-03 =
+*   Update - FS library
+*   Update - CF library
+
+= 1.5.3 - 2023-04-06 =
+*   Enhancement - reduce plugin footprint in the backend
+*   Update - FS library
+*   Update - CF library
+
+= 1.5.2 - 2023-03-19 =
+*   Enhancement - add title to avatars
+*   Enhancement - remove unneeded array keys
+*   Enhancement - bump WordPress and WooCommerce tested versions
+*   Update - FS library
+*   Update - CF library
+
+= 1.5.1 - 2022-11-17 =
+*   Fix - ensure custom backend quicktags load properly
+*   Enhancement - use prepare() for queries
+*   Update - POT file and translations
+*   Update - tested comptability with WP 6.1.1
+*   Update - FS library
+
+= 1.5.0 - 2022-09-13 =
+*   Enhancement - introduce code modularity
+*   Enhancement - reorganize options within tabs for consistency
+*   Fix - remove deprecated jQuery functions
+*   Add - brand-new json parser
+*   Add - dofollow internal URLs posted in comments
+*   Add - new plugin banner
+*   Security - escape more strings
+*   Update - now requires PHP 7.0
+*   Update - FS library
+*   Update - CF library
+
+= 1.4.1 (2022-04-21) =
+*   Add - add ALT text to gravatar images to solve SEO issues
+*   Enhancement - better replytocom handling
+*   Enhancement - code refactoring
+*   Enhancement - rename sections for consistency
+*   Fix - ensure $screen is defined when viewing the backend
+
+= 1.4 (2022-03-03) =
+*   Fix - optimize quicktags placement for Quick Reply on the backend's Comments page
+*   Fix - ensure quicktags bar is displayed inline for all themes
+*   Fix - local avatars now display correctly on the frontend, with a fallback on a custom default avatar, then gravatar as last resort
+*   Fix - local avatars now display correctly in the backend: dashboard, edit comments pages
+*   Fix - local avatars no longer take over other avatars on Settings > Discussion
+*   Fix - local avatars (even on localhost!) now display correctly on Settings > Discussion
+*   Add - add padding setting to reply links
+*   Add - add setting to remove text-decoration from reply links
+*   Enhancement - only apply styles for comment form if comments are enabled and the form shown
+*   Enhancement - clarify the options names for the comment policy option
+*   Enhancement - better custom quicktags scenario
+*   Enhancement - better replytocom handling
+*   Enhancement - better styles handling
+*   Enhancement - better options handling
+*   Update - Freemius SDK
+*   Update - CF SDK
+
+= 1.3 (2020-12-24) =
+
+*   New - introduce new sliders style
+*   New - add better looking icons to the admin page, with dual colors
+*   New - add new admin menu icon
+*   New - translations and POT file
+*   Enhancement - move menu underneath Comments menu for easy access and consistency
+*   Enhancement - ensure avatar shapes are only applied to the comments avatars
+*   Enhancement - enqueue and tie inline styles to the (child) theme
+*   Enhancement - add further translatable strings
+*   Performance - replace the font file with standalone SVG icons (this shaved 3.7 MB off the plugin)
+*   Fix - display uploaded avatar as default if it is set
+*   Update - CF SDK
+
+= 1.2 (2020-11-05) =
+
+*   New - add new plugin icon, derived from the banner
+*   New - add new tab colors
+*   Fix - fix backend quicktags display on the comments and dashboard pages
+*   Enhancement - ensure border-radius is not set when an avatar shape is set
+*   Enhancement - only output avatar code if a shape has been set
+*   Enhancement - add missing default colors for quicktags
+*   Enhancement - improve frontend loading times by 40%
+*   Enhancement - rename functions for consistency
+*   Enhancement - refactor CSS
+*   Update - Freemius SDK
+*   Update - CF SDK
+
+= 1.1 (2020-10-12) =
+
+*   New - add default colors and palettes for color controls
+*   New - set maximum and minimum comment length
+*   New - set reply title
+*   New - set submit button label
+*   New - add brand-new Avatars section
+*   New - add more shapes for avatars
+*   New - upload a sitewide default avatar
+*   Fix - fix static methods for comments oEmbeds
+*   Enhancement - reorganize Comments tab, add a new Avatars section
+*   Enhancement - display our icon in the WP Admin sidebar
+*   Enhancement - adjust readme.txt
+*   Enhancement - ensure emojis are not intercepted by WP emoji functions on our settings page
+
+= 1.0 (2020-10-08) =
+
+Initial release.

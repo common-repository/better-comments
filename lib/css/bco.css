@@ -1,0 +1,85 @@
+/* Pro upsell */
+.free .tab-admin,
+.free .tab-quicktags,
+.free .tab-security,
+.free .tab-seo,
+.free .tab-disable,
+.plan-plus .tab-security,
+.plan-plus .tab-seo,
+.plan-plus .tab-disable,
+.plan-pro .tab-disable {
+    opacity: .8
+}
+
+.free .plus .cf-field__label,
+.free .pro .cf-field__label,
+.free .business .cf-field__label,
+.plan-plus .pro .cf-field__label,
+.plan-plus .business .cf-field__label,
+.plan-pro .business .cf-field__label {
+    opacity: .7;
+    cursor: default;
+}
+
+.free .plus .cf-multiselect__indicators,
+.free .pro .cf-multiselect__indicators,
+.free .business .cf-multiselect__indicators,
+.plan-plus .pro .cf-multiselect__indicators,
+.plan-plus .business .cf-multiselect__indicators,
+.plan-pro .business .cf-multiselect__indicators {
+    display: none;
+}
+
+input:disabled+label,
+.free span.upgrade-business {
+    opacity: 0.7;
+    cursor: default;
+}
+
+/* plugins */
+div.plugins-block {
+    margin: 2rem 1rem;
+    display: grid;
+    grid-template-columns: 180px 2fr 200px;
+}
+
+img.plugins {
+    width: 128px;
+    margin: 0 2rem 2rem 0;
+}
+
+.plugins-block .plugins-install {
+    color: green;
+}
+
+.plugins-block .plugins-install a {
+    display: block;
+    background: #007cba;
+    border-color: #007cba;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+    width: max-content;
+    min-height: 32px;
+    line-height: 2.30769231;
+    padding: 0 12px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    white-space: nowrap;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.plugins-block .plugins-installed a:hover {
+    background: #0071a1;
+    border-color: #0071a1;
+    color: #fff;
+}
+
+.installed {
+    display: table-cell;
+    padding-top: 1rem;
+}

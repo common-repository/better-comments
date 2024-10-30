@@ -1,0 +1,473 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Better Comments\n"
+"POT-Creation-Date: 2020-12-25 06:08+0100\n"
+"PO-Revision-Date: 2020-12-25 06:10+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: better-comments.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: better-comments.php:95
+msgid "Settings"
+msgstr "Réglages"
+
+#: better-comments.php:107
+msgid "View Documentation"
+msgstr "Voir la documentation"
+
+#: better-comments.php:107
+msgid "Docs"
+msgstr "Documentation"
+
+#: better-comments.php:108
+msgid "Visit support forum"
+msgstr "Visiter le forum de support"
+
+#: better-comments.php:108
+msgid "Support forum"
+msgstr "Forum de support"
+
+#: better-comments.php:109
+msgid "Rate Better Comments"
+msgstr "Evaluer Better Comments"
+
+#: better-comments.php:109
+msgid "Rate the plugin"
+msgstr "Évaluez l’extension"
+
+#: better-comments.php:136
+#, php-format
+msgid "Thank you for using %s"
+msgstr "Merci d’utiliser %s"
+
+#: better-comments.php:138
+msgid "Rate"
+msgstr "Évaluer"
+
+#: better-comments.php:138
+msgid "the plugin"
+msgstr "l’extension"
+
+#: better-comments.php:553
+msgid "Go back and try again."
+msgstr "Revenir en arrière et réessayer."
+
+#: better-comments.php:922 better-comments.php:923 better-comments.php:924
+msgid "Premium feature"
+msgstr "Fonction premium"
+
+#. Plugin Name of the plugin/theme
+#: includes/options.php:34 includes/options.php:40
+msgid "Better Comments"
+msgstr "Better Comments"
+
+#: includes/options.php:79
+msgid "Form"
+msgstr "Formulaire"
+
+#: includes/options.php:80
+msgid "Comments"
+msgstr "Commentaires"
+
+#: includes/options.php:81
+msgid "Tweaks"
+msgstr "Réglages"
+
+#: includes/options.php:82
+msgid "Quicktags"
+msgstr "Quicktags"
+
+#: includes/options.php:83 includes/options.php:678
+msgid "Security"
+msgstr "Sécurité"
+
+#: includes/options.php:84
+msgid "SEO"
+msgstr "SEO"
+
+#: includes/options.php:85
+msgid "Disable"
+msgstr "Désactiver"
+
+#: includes/options.php:101
+msgid "Comment form"
+msgstr "Formulaire de commentaires"
+
+#: includes/options.php:105
+msgid "Customize fields"
+msgstr "Personnaliser les champs"
+
+#: includes/options.php:109 includes/options.php:153 includes/options.php:231
+#: includes/options.php:295
+msgid "Border radius (px)"
+msgstr "Rayon de bordure (px)"
+
+#: includes/options.php:117 includes/options.php:161 includes/options.php:239
+#: includes/options.php:303 includes/options.php:505
+msgid "Background color"
+msgstr "Couleur d’arrière-plan"
+
+#: includes/options.php:123 includes/options.php:141 includes/options.php:173
+#: includes/options.php:245 includes/options.php:315
+msgid "Border color"
+msgstr "Couleur de bordure"
+
+#: includes/options.php:129 includes/options.php:179 includes/options.php:251
+#: includes/options.php:321 includes/options.php:499
+msgid "Text color"
+msgstr "Couleur du texte"
+
+#: includes/options.php:137
+msgid "Highlight active field"
+msgstr "Mettre en évidence le champ actif"
+
+#: includes/options.php:149
+msgid "Submit button"
+msgstr "Bouton Envoyer"
+
+#: includes/options.php:167 includes/options.php:309
+msgid "Background color (hover)"
+msgstr "Couleur d’arrière-plan (au survol)"
+
+#: includes/options.php:185
+msgid "Dropshadow text color"
+msgstr "Couleur de texte dropshadow"
+
+#: includes/options.php:191
+msgid "Set reply title"
+msgstr "Définir le titre de la réponse"
+
+#: includes/options.php:195
+msgid "Reply title"
+msgstr "Titre de réponse"
+
+#: includes/options.php:199
+msgid "Set submit button label"
+msgstr "Label du bouton d'envoi"
+
+#: includes/options.php:203
+msgid "Submit button label"
+msgstr "Label du bouton d'envoi"
+
+#: includes/options.php:210
+msgid "Form options"
+msgstr "Options de formulaire"
+
+#: includes/options.php:213
+msgid "Move comment field to the bottom of the form"
+msgstr "Déplacer le champ de commentaires vers le bas du formulaire"
+
+#: includes/options.php:217
+msgid "Remove URL field"
+msgstr "Supprimer le champ URL"
+
+#: includes/options.php:221
+msgid "Stack all fields"
+msgstr "Empiler tous les champs"
+
+#: includes/options.php:227
+msgid "Add comment policy"
+msgstr "Ajouter la politique de commentaire"
+
+#: includes/options.php:257
+msgid "Position"
+msgstr "Position"
+
+#: includes/options.php:262
+msgid "Comment policy"
+msgstr "Politique de commentaires"
+
+#: includes/options.php:280
+msgid "Comments section"
+msgstr "Section commentaires"
+
+#: includes/options.php:285
+msgid "Hide comment date"
+msgstr "Masquer la date du commentaire"
+
+#: includes/options.php:291
+msgid "Design reply button"
+msgstr "Personnalisation du bouton Répondre"
+
+#: includes/options.php:328
+msgid "Avatars"
+msgstr "Avatars"
+
+#: includes/options.php:333
+msgid "Select avatars shape"
+msgstr "Sélectionner la forme des avatars"
+
+#: includes/options.php:337
+msgid "Set avatars and gravatars shape"
+msgstr "Définir la forme des avatars et gravatars"
+
+#: includes/options.php:358
+msgid "Set default avatar"
+msgstr "Définir l’avatar par défaut"
+
+#: includes/options.php:362
+msgid "Default avatar image"
+msgstr "Image de l’avatar par défaut"
+
+#: includes/options.php:382
+msgid "Admin settings"
+msgstr "Paramètres d’administrateur"
+
+#: includes/options.php:387
+msgid "Allow admin to comment on closed to comments posts"
+msgstr ""
+"Permettre à l’administrateur de commenter les messages fermés aux "
+"commentaires"
+
+#: includes/options.php:393
+msgid "Disable admin self-notifications when they comment"
+msgstr "Désactiver les auto-notifications admin lorsqu’ils commentent"
+
+#: includes/options.php:399
+msgid "Add referrer URL to admin comments notifications emails"
+msgstr ""
+"Ajouter l’URL referrer aux e-mails de notifications de commentaires admin"
+
+#: includes/options.php:406
+msgid "Comments tweaks"
+msgstr "Réglages"
+
+#: includes/options.php:411
+msgid "Allow oEmbeds in comments"
+msgstr "Autoriser oEmbeds dans les commentaires"
+
+#: includes/options.php:417
+msgid "Set comment length"
+msgstr "Définir la longueur des commentaires"
+
+#: includes/options.php:422
+msgid "Minimum comment length (in characters)"
+msgstr "Longueur minimale des commentaires (en caractères)"
+
+#: includes/options.php:429
+msgid "Error message for short comments"
+msgstr "Message d’erreur pour les commentaires courts"
+
+#: includes/options.php:435
+msgid "Maximum comment length (in characters)"
+msgstr "Longueur minimale des commentaires (en caractères)"
+
+#: includes/options.php:442
+msgid "Error message for long comments"
+msgstr "Message d’erreur pour les commentaires longs"
+
+#: includes/options.php:449 includes/options.php:626 includes/options.php:661
+#: includes/options.php:711 includes/options.php:782
+msgid "Get these features with the premium version"
+msgstr "Obtenez ces fonctionnalités avec la version premium"
+
+#: includes/options.php:492
+msgid "Comments quicktags on the frontend"
+msgstr "Commentaires quicktags sur le frontend"
+
+#: includes/options.php:495 includes/options.php:574
+msgid "Enable quicktags"
+msgstr "Activer les quicktags"
+
+#: includes/options.php:511
+msgid "Padding"
+msgstr "Marges intérieures"
+
+#: includes/options.php:514 includes/options.php:578
+msgid "Select built-in quicktags"
+msgstr "Sélectionner les quicktags intégrés"
+
+#: includes/options.php:535 includes/options.php:599
+msgid "Define custom quicktags"
+msgstr "Définir des quicktags personnalisés"
+
+#: includes/options.php:539 includes/options.php:603
+msgid "Custom quicktags"
+msgstr "Quicktags personnalisés"
+
+#: includes/options.php:541 includes/options.php:605
+msgid "Tag name"
+msgstr "Nom d'étiquette"
+
+#: includes/options.php:543 includes/options.php:607
+msgid "Tag name."
+msgstr "Nom de l'étiquette."
+
+#: includes/options.php:545 includes/options.php:609
+msgid "Tag code starts with:"
+msgstr "La balise commence par :"
+
+#: includes/options.php:547 includes/options.php:611
+msgid "Start tag"
+msgstr "Balise de début"
+
+#: includes/options.php:549 includes/options.php:613
+msgid "Tag code ends with:"
+msgstr "La balise finit par :"
+
+#: includes/options.php:551 includes/options.php:615
+msgid "End tag"
+msgstr "Balise de fin"
+
+#: includes/options.php:553 includes/options.php:617
+msgid "Enable"
+msgstr "Activer"
+
+#: includes/options.php:571
+msgid "Comments quicktags on the backend"
+msgstr "Commentaires quicktags sur le backend"
+
+#: includes/options.php:642
+msgid "SEO comments redirects"
+msgstr "Redirections des commentaires pour le SEO"
+
+#: includes/options.php:644
+msgid "Redirect /all-comments/ requests to original post"
+msgstr "Rediriger les requêtes /all-comments/ vers la publication originale"
+
+#: includes/options.php:648
+msgid "Redirect /comment-page-1/ requests to original post"
+msgstr "Rediriger les requêtes /comment-page-1/ vers la publication originale"
+
+#: includes/options.php:652
+msgid "Redirect replytocom fragments to comment ID anchors"
+msgstr ""
+"Rediriger les fragments replytocom pour commenter les ancres d’identification"
+
+#: includes/options.php:656
+msgid "Replace replytocom fragments with comment ID anchors on Reply links"
+msgstr ""
+"Remplacer les fragments replytocom par des ancres de commentaires sur les "
+"liens de réponse"
+
+#: includes/options.php:680
+msgid "Disable comments cookies"
+msgstr "Désactiver les cookies de commentaires"
+
+#: includes/options.php:684
+msgid "Disable trackbacks globally"
+msgstr "Désactiver les trackbacks entièrement"
+
+#: includes/options.php:688
+msgid "Discard comments posted by commenters using an all-numeric name"
+msgstr ""
+"Rejeter les commentaires publiés par les commentateurs à l’aide d’un nom "
+"tout numérique"
+
+#: includes/options.php:692
+msgid ""
+"Discard comments posted by commenters trying to impersonate a registered user"
+msgstr ""
+"Rejeter les commentaires publiés par les commentateurs qui tentent de se "
+"faire passer pour un utilisateur enregistré"
+
+#: includes/options.php:696
+msgid "Error title:"
+msgstr "Titre d'erreur :"
+
+#: includes/options.php:700
+msgid "Error title"
+msgstr "Titre d'erreur"
+
+#: includes/options.php:703
+msgid "Message to display when an imposter is detected:"
+msgstr "Message à afficher lorsqu’un imposteur est détecté :"
+
+#: includes/options.php:707
+msgid "Error explanation"
+msgstr "Explication d’erreur"
+
+#: includes/options.php:737
+msgid "Disable comments on custom post types"
+msgstr "Désactiver les commentaires sur vos types de publication personnalisés"
+
+#: includes/options.php:742
+#, php-format
+msgid "Disable comments on %s"
+msgstr "Désactiver les commentaires sur %s"
+
+#: includes/options.php:755
+msgid "Hide comments on custom post types"
+msgstr "Désactiver les commentaires sur vos types de publication personnalisés"
+
+#: includes/options.php:766
+#, php-format
+msgid "Hide comments on %s"
+msgstr "Masquer les commentaires sur %s"
+
+#: includes/options.php:773
+msgid "Misc"
+msgstr "Divers"
+
+#: includes/options.php:776
+msgid "Remove \"comments are closed\" message"
+msgstr "Supprimer le message « les commentaires sont fermés »"
+
+#: includes/options.php:800 includes/options.php:822 includes/options.php:841
+msgid "Take it to the next level!"
+msgstr "Passez au niveau supérieur !"
+
+#: includes/options.php:802
+msgid "Comments quicktags"
+msgstr "Quicktags pour les commentaires"
+
+#: includes/options.php:803
+msgid "Time-saving admin controls"
+msgstr "Réglages admin rapides"
+
+#: includes/options.php:804 includes/options.php:824
+msgid "Reduce SEO errors with smart comments redirects"
+msgstr ""
+"Réduire les erreurs de référencement avec des redirections de commentaires "
+"intelligents"
+
+#: includes/options.php:805 includes/options.php:825
+msgid "Security and anti-spam controls"
+msgstr "Contrôles de sécurité et anti-spam"
+
+#: includes/options.php:806 includes/options.php:826 includes/options.php:843
+msgid "Disable comments on your custom post types"
+msgstr "Désactiver les commentaires sur vos types de publication personnalisés"
+
+#: includes/options.php:808 includes/options.php:828 includes/options.php:846
+msgid "Go premium"
+msgstr "Version premium"
+
+#: includes/options.php:844
+msgid "Get assistance from your personal success manager"
+msgstr "Obtenez de l’aide de votre gestionnaire de réussite personnelle"
+
+#. Plugin URI of the plugin/theme
+msgid "https://utopique.net/products/better-comments/"
+msgstr "https://utopique.net/products/better-comments/"
+
+#. Description of the plugin/theme
+msgid ""
+"Better Comments allows you to easily style and customize your comment form "
+"and comments section, in just a few clicks."
+msgstr ""
+"Better Comments vous permet de style et de personnaliser facilement votre "
+"formulaire de commentaire et la section commentaires, en quelques clics."
+
+#. Author of the plugin/theme
+msgid "Utopique"
+msgstr "Utopique"
+
+#. Author URI of the plugin/theme
+msgid "https://utopique.net/"
+msgstr "https://utopique.net/"
